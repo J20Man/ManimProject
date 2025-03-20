@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/josep/Desktop/Projects/Manim/ManimProject/media/videos/script/1080p60/partial_movie_files/CreateCircle/3977891868_245596627_223132457.mp4'
+file 'file:C:/Users/josep/Desktop/Projects/Manim/ManimProject/media/videos/script/1080p60/partial_movie_files/CreateCircle/2852726489_2185556375_1899062583.mp4'
+file 'file:C:/Users/josep/Desktop/Projects/Manim/ManimProject/media/videos/script/1080p60/partial_movie_files/CreateCircle/2852726489_1174557488_3175843649.mp4'
